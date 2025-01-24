@@ -37,7 +37,7 @@ Abaixo está uma visualização da estrutura do projeto (pastas primeiro, seguid
 ├── setup_project.sh
 ├── USAGE.md
 
-## 🏆 Benefícios do Simulador
+## 🏆 Benefícios do Gerador de README.md
 
 - **Precisão:** Elimina erros manuais em cálculos financeiros.
 - **Eficiência:** Automatiza análises complexas, economizando tempo.
