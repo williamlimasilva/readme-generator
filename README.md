@@ -1,4 +1,4 @@
-# 🗂️ Projeto: captacao_bancaria_rentabilidade
+# 🗂️ Projeto: Gerador de README.md
 
 ![Logo do Projeto](https://via.placeholder.com/800x200?text=Imagem+do+Projeto)
 
