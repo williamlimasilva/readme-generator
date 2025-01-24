@@ -109,7 +109,7 @@ $LIBRARIES
 
 As principais tecnologias utilizadas no projeto incluem:
 
-- [Python](https://www.python.org/)
+- [Python]<https://www.python.org/>
 - Outras tecnologias podem ser descritas aqui.
 
 ## 🛠️ Tarefas
@@ -132,17 +132,17 @@ As principais tecnologias utilizadas no projeto incluem:
 
 ## 🤝 Contribuições
 
-Feedbacks e sugestões são sempre bem-vindos! Sinta-se à vontade para abrir **[issues](https://github.com/IOVASCON/projeto/issues)** ou enviar **[pull requests](https://github.com/IOVASCON/projeto/pulls)**.
+Feedbacks e sugestões são sempre bem-vindos! Sinta-se à vontade para abrir [**issues**]<https://github.com/IOVASCON/projeto/issues> ou enviar [**pull requests**]<https://github.com/IOVASCON/projeto/pulls>.
 
 Espero que este README seja útil para explicar o projeto e atrair atenção de colaboradores e usuários. Se precisar de ajustes ou personalizações, é só avisar! 🚀
 
 ## 👥 Autor
 
-- [@iovascon](https://github.com/IOVASCON)
+- [@iovascon]<https://github.com/IOVASCON>
 
 ## 📜 Licença
 
-Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
+Este projeto está sob a licença [MIT]<https://opensource.org/licenses/MIT>.
 EOL
 
 echo "README.md gerado com sucesso em: $README_PATH"
