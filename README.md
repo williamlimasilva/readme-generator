@@ -1,7 +1,5 @@
 # 🗂️ Projeto: Gerador de README.md
 
-![Logo do Projeto](https://via.placeholder.com/800x200?text=Imagem+do+Projeto)
-
 ![Execução do Script](executando_script.PNG)
 
 ## 📝 Descrição
@@ -21,7 +19,7 @@ O objetivo principal deste projeto é **descrever o objetivo aqui**.
 ## 📂 Estrutura do Projeto
 
 Abaixo está uma visualização da estrutura do projeto (pastas primeiro, seguidas de arquivos):
-
+```
 ├── data
 ├── docs
 ├── images
@@ -36,7 +34,7 @@ Abaixo está uma visualização da estrutura do projeto (pastas primeiro, seguid
 ├── requirements.txt
 ├── setup_project.sh
 ├── USAGE.md
-
+```
 ## 🏆 Benefícios do Gerador de README.md
 
 - **Precisão:** Elimina erros manuais em cálculos financeiros.
